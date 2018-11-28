@@ -1,0 +1,11 @@
+{
+  "name": "XANA",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "tagazocq#8168",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.1.0"
+  }
+}
